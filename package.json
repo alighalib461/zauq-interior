@@ -1,0 +1,13 @@
+{
+  "name": "zauq-interior-website",
+  "version": "1.0.0",
+  "description": "Ba Zauq Interiors - Luxury Interior Designer Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["interior-design", "luxury", "website", "rawalpindi", "islamabad"],
+  "author": "Ba Zauq Interiors (Malik Naveed Shareef)",
+  "license": "ISC"
+}
