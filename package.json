@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "Ba Zauq Interiors - Luxury Interior Designer Website",
   "scripts": {
+    "start": "node server.js",
     "dev": "node server.js",
-    "serve": "node server.js"
+    "serve": "node server.js",
+    "build": "echo 'Static build ready'"
   },
   "keywords": [
     "interior-design",
@@ -16,4 +18,3 @@
   "author": "Ba Zauq Interiors (Malik Naveed Shareef)",
   "license": "ISC"
 }
-
