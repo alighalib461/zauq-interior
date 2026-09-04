@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Ba Zauq Interiors - Luxury Interior Designer Website",
   "scripts": {
-    "start": "node server.js",
-    "dev": "node server.js",
-    "serve": "node server.js",
+    "start": "node local-server.js",
+    "dev": "node local-server.js",
+    "serve": "node local-server.js",
     "build": "echo 'Static build ready'"
   },
   "keywords": [
